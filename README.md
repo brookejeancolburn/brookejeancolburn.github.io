@@ -1,10 +1,11 @@
-## Welcome to GitHub Pages
+# Brooke Colburn
 
-You can use the [editor on GitHub](https://github.com/brookejeancolburn/brookejeancolburn.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+## Who I Know
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Education
 
-### Markdown
+## Interests
+Computer vision, machine learning, path planning
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
