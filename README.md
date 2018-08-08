@@ -4,8 +4,10 @@
 ## Experience
 GNC & SOFTWARE ENGINEER • FARB GUIDANCE • 2016 – PRESENT
 Responsible for designing and implementing GNC system for a self-driving tractor using GPS based updates; developing an application to plan paths based on various farming parameters; and developing a monitoring system for multiple tractor units.
+
 GNC ENGINEER • NORTHROP GRUMMAN • 2002 – 2005
 Responsible for developing navigational covariance analysis simulation software to accurately model new GNC concepts.
+
 SYSTEMS ENGINEER • JET PROPULSION LABORATORY • 2001 – 2002
 
 
