@@ -1,15 +1,16 @@
 # Brooke Colburn
 
-## Who I Know
-
 ## Education
 
 ## Interests
 ### Brooke Colburn
 
 ## Portfolio
-
+Implementation of a CNN to detect key facial points on images.
 [Facial Keypoint Detector](https://github.com/brookejeancolburn/brookejeancolburn.github.io/blob/master/Detecting%20Facial%20Keypoints.ipynb)
+
+Use image processing techniques to align three grayscale image plates into a single RGB image.
+[RGB Image Alignment](https://github.com/brookejeancolburn/brookejeancolburn.github.io/blob/master/RGB%20Channel%20Alignment.ipynb)
 
 Computer vision, machine learning, path planning
 
