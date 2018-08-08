@@ -1,4 +1,12 @@
 # Brooke Colburn
+ 
+
+## Portfolio
+Implementation of a CNN to detect key facial points on images.
+[Facial Keypoint Detector](https://github.com/brookejeancolburn/brookejeancolburn.github.io/blob/master/Detecting%20Facial%20Keypoints.ipynb)
+
+Use image processing techniques to align three grayscale image plates into a single RGB image.
+[RGB Image Alignment](https://github.com/brookejeancolburn/brookejeancolburn.github.io/blob/master/RGB%20Channel%20Alignment.ipynb)
 
 
 ## Experience
@@ -19,14 +27,6 @@ BS IN MECHANICAL ENGINEERING • 2000 • WALLA WALLA UNIVERSITY
 Summa Cum Laude; GRE Math 800/800; GRE Analytical 800/800
 
 MS IN COMPUTER SCIENCE SPECIALIZATION MACHINE LEARNING • starting Spring 2019 • Georgia Tech
- 
-
-## Portfolio
-Implementation of a CNN to detect key facial points on images.
-[Facial Keypoint Detector](https://github.com/brookejeancolburn/brookejeancolburn.github.io/blob/master/Detecting%20Facial%20Keypoints.ipynb)
-
-Use image processing techniques to align three grayscale image plates into a single RGB image.
-[RGB Image Alignment](https://github.com/brookejeancolburn/brookejeancolburn.github.io/blob/master/RGB%20Channel%20Alignment.ipynb)
 
  
 ## Interests
