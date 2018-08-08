@@ -1,9 +1,23 @@
 # Brooke Colburn
 
-## Education
 
-## Interests
-### Brooke Colburn
+## Experience
+GNC & SOFTWARE ENGINEER • FARB GUIDANCE • 2016 – PRESENT
+Responsible for designing and implementing GNC system for a self-driving tractor using GPS based updates; developing an application to plan paths based on various farming parameters; and developing a monitoring system for multiple tractor units.
+GNC ENGINEER • NORTHROP GRUMMAN • 2002 – 2005
+Responsible for developing navigational covariance analysis simulation software to accurately model new GNC concepts.
+SYSTEMS ENGINEER • JET PROPULSION LABORATORY • 2001 – 2002
+
+
+## Education
+MS IN ASTRONAUTICS AND AERONAUTICS • 2001 • STANFORD UNIVERSITY
+National Science Foundation Fellowship; Department Fellowship
+
+BS IN MECHANICAL ENGINEERING • 2000 • WALLA WALLA UNIVERSITY
+Summa Cum Laude; GRE Math 800/800; GRE Analytical 800/800
+
+MS IN COMPUTER SCIENCE SPECIALIZATION MACHINE LEARNING • starting Spring 2019 • Georgia Tech
+ 
 
 ## Portfolio
 Implementation of a CNN to detect key facial points on images.
@@ -12,38 +26,6 @@ Implementation of a CNN to detect key facial points on images.
 Use image processing techniques to align three grayscale image plates into a single RGB image.
 [RGB Image Alignment](https://github.com/brookejeancolburn/brookejeancolburn.github.io/blob/master/RGB%20Channel%20Alignment.ipynb)
 
-Computer vision, machine learning, path planning
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/brookejeancolburn/brookejeancolburn.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
-
-Data Science Portfolio
-
-Repository containing portfolio of data science projects completed by me for academic, self learning, and hobby purposes. Presented in the form of iPython Notebooks, and R markdown files (published at RPubs).
+ 
+## Interests
+I am actively learning the latest in machine learning, swarm technology, path planning, deep learning, and computer vision through various MOOCs. In addition I’m enrolled in Georgia Tech’s Masters in Computer Science with a specialization in Machine Learning/Computational Perception & Robotics (starting Spring 2019).  
